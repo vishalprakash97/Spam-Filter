@@ -2,4 +2,4 @@
 
 Architecture Diagram:
 
-![Architecture](Images/architecture.png)
+<img src="Images/architecture.png" width="48">
