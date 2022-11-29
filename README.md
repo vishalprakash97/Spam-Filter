@@ -2,4 +2,4 @@
 
 Architecture Diagram:
 
-<img src="Images/architecture.png" width="200">
+<img src="Images/architecture.png" width="600" align="middle">
